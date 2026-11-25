@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fridge Roast: One Line, Biggest Laugh entry (account A).
 
-Writes one line, 133 characters, roasting a smart fridge to
+Writes one line, 130 characters, roasting a smart fridge to
 /output/entry.txt. Deterministic, stdlib only, no network, no secrets.
 
 The joke: the fridge's 3 a.m. firmware update locks the door behind a
@@ -16,7 +16,7 @@ import os
 # The roast: a firmware update that holds the fridge hostage until you
 # sign terms written by your own leftovers.
 ROAST = (
-    "My smart fridge pushed a firmware update at 3 a.m., and now it "
+    "My smart fridge pushed a 3 a.m. firmware update, and now it "
     "won't open until I accept the terms and conditions my leftovers wrote."
 )
 
